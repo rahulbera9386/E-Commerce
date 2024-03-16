@@ -2,7 +2,11 @@ import React from 'react'
 import "./About.css"
 const About= () => {
   return (
-    <div>About-Us</div>
+    <>
+     <h1 className="text-3xl font-bold ">
+      About Us
+    </h1>
+    </>
   )
 }
 
