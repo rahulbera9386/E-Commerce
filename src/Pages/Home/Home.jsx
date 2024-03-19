@@ -1,9 +1,20 @@
-import React from 'react'
-import "./Home.css"
+import React from "react";
+import { Hero,Collection,FilterCollection,NewTrands,Footer} from "../../components/IndexCom";
+
+
+
 const Home = () => {
   return (
-    <div>Home</div>
-  )
-}
+    <>
+ 
+       <Hero/>
+      <Collection/>
+      <FilterCollection/>
+      <NewTrands/>
+      <Footer/>
+    
+    </>
+  );
+};
 
-export default Home
+export default Home;
