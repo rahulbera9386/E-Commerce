@@ -3,7 +3,7 @@ import React from "react";
 const Footer = () => {
   return (
     <>
-      <div class=" relative flex flex-wrap flex-row justify-evenly min-w-screen min-h-10  border border-solid border-rose-600 bg-gray-900 mx-1 mt-3">
+      <div class=" relative flex flex-wrap flex-row justify-evenly min-w-screen min-h-10  bg-gray-900 mx-1 mt-3">
        <div className="relative flex flex-wrap flex-row justify-evenly m-5">
               <div className=" relative flex flex-wrap flex-col justify-center text-left max-w-[25%] h-auto text-white m-3 p-3 min-h-9">
                 <a href="/" className="text-3xl font-bold m-3 text-left hover:text-orange-400 hover:scale-110 "><p>Azios</p></a>

@@ -3,5 +3,6 @@ import Collection from './Collection/Collection';
 import FilterCollection from './FilterCollcetion/FilterCpollcetion';
 import NewTrands from './Trands/NewTrands';
 import Footer from './Footer/Footer';
+import Navbar from "./Navbar/Navbar"
 
-export {Hero,Collection,FilterCollection,NewTrands,Footer};
+export {Navbar,Hero,Collection,FilterCollection,NewTrands,Footer};
