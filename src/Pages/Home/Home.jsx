@@ -7,11 +7,11 @@ const Home = () => {
   return (
     <>
  
-       <Hero/>
+      <Hero/>
       <Collection/>
       <FilterCollection/>
       <NewTrands/>
-      <Footer/>
+
     
     </>
   );
